@@ -1,5 +1,6 @@
 ## Olá, mundo! 👋
 <!-- colocar link para README em inglês -->
+<!-- Reformular a apresentação deste README para que o visitante veja um resumo mais rico ao abrir o perfil -->
 <p align="justify">
 Meu nome é Irving Lucas. Sou de Maceió - Alagoas e estudo Ciência da Computação pela Universidade Federal de Alagoas. Estou no estágio final do curso e atualmente estou buscando novos conhecimentos e habilidades no mundo da programação 😁. 
 
@@ -26,6 +27,7 @@ A seguir, algumas outras particularidades sobre mim...
 * Jogar CS:GO
 
 ### Redes sociais
+<!-- colocar para abrir links externamente -->
 LinkedIn: [irvinglucas](https://www.linkedin.com/in/irvinglucas/)
 
 Instagram: [@irvinglucas](https://instagram.com/irvinglucas)
@@ -36,6 +38,8 @@ mail-me: irving.lucas@gmail.com
 
 <!--
 vou deixar isso aqui para referencias futuras
+
+
 **irvinglucas/irvinglucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
