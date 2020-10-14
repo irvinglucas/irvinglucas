@@ -25,7 +25,17 @@ A seguir, algumas outras particularidades sobre mim...
 * Treinar musculação
 * Jogar CS:GO
 
+### Redes sociais
+LinkedIn: [irvinglucas](https://www.linkedin.com/in/irvinglucas/)
+
+Instagram: [@irvinglucas](https://instagram.com/irvinglucas)
+
+Twitter: [@irvinglucas](https://twitter.com/irvinglucas)
+
+mail-me: irving.lucas@gmail.com
+
 <!--
+vou deixar isso aqui para referencias futuras
 **irvinglucas/irvinglucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
