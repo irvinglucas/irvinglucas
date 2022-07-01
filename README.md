@@ -11,7 +11,7 @@ I like to categorize me as a tech enthusiast. I like to be arround technology, r
 ## Current focus
 
 
-Currently i'm in a career transition. Now my journey is to be an Android developer 🤓 My study is focused on developing native apps using Kotlin with the latest and coolest tools and techniques to achieve the best results!
+Currently I'm in a career transition. Now my journey is to be an Android developer 🤓 My study is focused on developing native apps using Kotlin with the latest and coolest tools and techniques to achieve the best results!
 
 I love technology. The Android world conquered me since I was at my first year in college until today. So I decided to focus on mobile development, and my first step is native development. 📲
 
