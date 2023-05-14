@@ -5,19 +5,16 @@ My name is Irving Lucas. I'm from Maceió - Alagoas - Brazil. I'm proud of been 
 
 I'm a bachelor in Computer Science. I'm a scientist! 🤓
 
-I like to categorize me as a tech enthusiast. I like to be arround technology, read tech news and to have all kind of gadgets that get the world's life better and better.
+I like to introduce myself as a tech enthusiast. I like to be arround technology, read tech news and have all kind of gadgets that make world's life better and better.
 
 
 ## Current focus
 
+My professional carrer as a software engineer started in 2023. Today I work as an Android OS framework engineer. 
 
-Currently I'm in a career transition. Now my journey is to be an Android developer 🤓 My study is focused on developing native apps using Kotlin with the latest and coolest tools and techniques to achieve the best results!
+I build things to run into Android operating system architecture, specifically in the OS [Framework Layer](https://developer.android.com/guide/platform#api-framework). I am responsible to write/refactor code to create/maintain security features for Android Enterprise 
 
-I love technology. The Android world conquered me since I was at my first year in college until today. So I decided to focus on mobile development, and my first step is native development. 📲
-
-I think that native development is, for me, the best choice to start because I like to know how things work in its root. Beside of that, I also know that things have to be easier to develop sometimes. Thus, in the future, I'll go forward in hybrid development, because this way I'll be more prepared for future challenges that might come 😁
-
-<!-- In the future I'll seek to focus on market trends technologies like Flutter. Flutter is widely used to develop hybrid apps(iOS/Android). -->
+I attended an Android specialization program, focused on Android apps and embedded android development. This program was offered for Venturus, the company that now I work for.
 
 
 ## Last professional experience
@@ -34,16 +31,17 @@ Previously, I was working at CONFIGR as a Technical Linux Support Engineer. The 
 * Computer Technician for SENAC - Alagoas - Brazil
 * Junior Google Cloud Engineer - Course made by Google + Federal University of Alagoas
 
-## Technologies and tools I know how to use
+## Technologies and tools I have knowledge
 
+* Java
 * Kotlin
 * Android SDK
+* Android framework development
 * GIT
 * Protocols: SSH, FTP, HTTP
 * Linux
 * NGINX
-* Cloud services: AWS, GCP e Linode
-* Java
+* Cloud services: AWS/GCP/Linode
 * Python
 * C++
 * Arduino and Eletronics
@@ -52,13 +50,12 @@ Previously, I was working at CONFIGR as a Technical Linux Support Engineer. The 
 ## Tecnologies i've been learning
 
 
-* Kotlin
-* Android SDK
-
+* Shellscript
+* AOSP build process
 
 
 ### Hobbies
-* Playing my guitar
+* Playing guitar
 * Playing Counter-Strike: Global Offensive
 * Going to gym
 
