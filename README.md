@@ -51,12 +51,12 @@ Previously, I was working at CONFIGR as a Technical Linux Support Engineer. The 
 
 
 * Shellscript
-* AOSP build process
+* AOSP
 
 
 ### Hobbies
 * Playing guitar
-* Playing Counter-Strike: Global Offensive
+* Playing games on PC. Usually I like racing/open world games, such as Need For Speed and GTA titles.
 * Going to gym
 
 Not necessarily in this order hahah 😁
