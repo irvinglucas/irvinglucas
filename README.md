@@ -64,7 +64,9 @@ Not necessarily in this order hahah 😁
 ### My social media
 <!-- setup to open links externally -->
 <p>
-LinkedIn: <a href="https://www.linkedin.com/in/irvinglucas/" target="_blank" rel="noopener noreferrer">irvinglucas</a> | Instagram: <a href="https://instagram.com/irvinglucas" target="_blank" rel="noopener norefererrer">@irvinglucas</a> | Twitter: <a href="https://twitter.com/irvinglucas" target="_blank" rel="noopener norefererrer">@irvinglucas</a>
+LinkedIn: <a href="https://www.linkedin.com/in/irvinglucas/" target="_blank">irvinglucas</a> 
+Instagram: <a href="https://instagram.com/irvinglucas" target="_blank" rel="noopener norefererrer">@irvinglucas</a> 
+Twitter: <a href="https://twitter.com/irvinglucas" target="_blank" rel="noopener norefererrer">@irvinglucas</a>
 </p>
 
 <p>mail-me: irving.lucas@gmail.com</p>
